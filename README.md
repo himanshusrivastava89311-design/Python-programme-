@@ -22,3 +22,8 @@ User Input (input())
 Type Casting (float())
 Variables
 Arithmetic Operations
+
+OUTPut 
+<img width="1012" height="1256" alt="17769362878763312149766536325004" src="https://github.com/user-attachments/assets/9360f5bd-da09-420f-86b3-d81b42f27886" />
+
+
